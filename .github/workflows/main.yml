@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - uses: actions/checkuot@v2
+    - uses: actions/checkuot@v2.301.1
       with:
         ref: 'main'
     - name: Set up Python 3.5
