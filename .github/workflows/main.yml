@@ -13,5 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
+    - uses: actions/checkuot@v2
+    
     - name: Run make command
       run: make hello
