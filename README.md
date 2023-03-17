@@ -1,5 +1,4 @@
 # azure-devops
 This is a repo for azure devops
 
-#This is edited by cloud shell WS
-WS as developer
+[![Python application test with Github Actions](https://github.com/wsiwecki/azure-devops/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/wsiwecki/azure-devops/actions/workflows/pythonapp.yml)
