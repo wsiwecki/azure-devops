@@ -26,4 +26,5 @@ curl -d '{
 }'\
      -H "Content-Type: application/json" \
      -X POST https://flaskws.azurewebsites.net:$PORT/predict 
+     #add comment on notebook
      #your application name <yourappname>goes here
