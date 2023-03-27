@@ -16,10 +16,10 @@ jobs:
     - uses: actions/checkuot@v2.301.1
       with:
         ref: 'main'
-    - name: Set up Python 3.5
+    - name: Set up Python 3.7
       uses: actions/setup-pythonv@1
       with:
-        python-version: 3.5
+        python-version: 3.7
     - name: Install depedencies
       run: make install
     - name: Lint with pylint
